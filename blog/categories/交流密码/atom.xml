@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[亲子社区]]></title>
-  <link href="http://inCage.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 交流密码 | 亲子社区]]></title>
+  <link href="http://inCage.github.com/blog/categories/交流密码/atom.xml" rel="self"/>
   <link href="http://inCage.github.com/"/>
   <updated>2012-07-11T14:21:57+08:00</updated>
   <id>http://inCage.github.com/</id>
@@ -51,29 +51,6 @@
 
 
 <p>卡罗尔狠狠地瞪了她妈妈一眼，然后就跑回自己的房间里，关上了门。这件事本来应该有一个更愉快的结局。孩子的感受必须认真对待，即使情况本身并不严重。在卡罗尔妈妈的眼里，暑假结束后的一次分离可能是太小的一件事，不值得掉眼泪，但是她的反应不应该没有同情心。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test2]]></title>
-    <link href="http://inCage.github.com/blog/2012/07/11/test2/"/>
-    <updated>2012-07-11T00:00:00+08:00</updated>
-    <id>http://inCage.github.com/blog/2012/07/11/test2</id>
-    <content type="html"><![CDATA[<h1>早晨好</h1>
-
-<p>小鸟很早就开始叫了，阳光照在树叶当中，很温暖。
-新的一天开始了，还没有上班呢。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test1]]></title>
-    <link href="http://inCage.github.com/blog/2012/07/11/test1/"/>
-    <updated>2012-07-11T00:00:00+08:00</updated>
-    <id>http://inCage.github.com/blog/2012/07/11/test1</id>
-    <content type="html"><![CDATA[<h1>good morning!</h1>
-
-<p>my name is david, what&#8217;s your name?</p>
 ]]></content>
   </entry>
   
