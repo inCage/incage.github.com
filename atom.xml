@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[学而社区]]></title>
-  <link href="http://inCage.github.com/atom.xml" rel="self"/>
-  <link href="http://inCage.github.com/"/>
-  <updated>2012-07-12T22:26:10+08:00</updated>
-  <id>http://inCage.github.com/</id>
+  <link href="http://incage.github.com/atom.xml" rel="self"/>
+  <link href="http://incage.github.com/"/>
+  <updated>2012-07-12T23:53:35+08:00</updated>
+  <id>http://incage.github.com/</id>
   <author>
     <name><![CDATA[kanxue]]></name>
     
@@ -15,11 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[2012年暑期家庭团聚]]></title>
-    <link href="http://inCage.github.com/blog/2012/07/12/family-at-hk/"/>
+    <link href="http://incage.github.com/blog/2012/07/12/family-at-hk/"/>
     <updated>2012-07-12T14:25:00+08:00</updated>
-    <id>http://inCage.github.com/blog/2012/07/12/family-at-hk</id>
-    <content type="html"><![CDATA[<p>阔别数载的家人要从老家启程来深了，心里很开心。但手上的事又没有处理好，又有点愁人。
-做点预备功课。</p>
+    <id>http://incage.github.com/blog/2012/07/12/family-at-hk</id>
+    <content type="html"><![CDATA[<p>家人（很久没见了！）要从老家启程来深了，心里很开心。  但手上的事又没有处理好，又有点愁人。</p>
+
+<p>做点预备功课吧。</p>
 
 <ul>
 <li>功课生：<strong>李天壮</strong></li>
@@ -28,7 +29,7 @@
 </ul>
 
 
-<p>功课表：</p>
+<p><strong>功课表</strong>：</p>
 
 <ol>
 <li>行前物品清单</li>
