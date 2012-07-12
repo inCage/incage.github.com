@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[亲子社区]]></title>
+  <title><![CDATA[学而社区]]></title>
   <link href="http://inCage.github.com/atom.xml" rel="self"/>
   <link href="http://inCage.github.com/"/>
-  <updated>2012-07-12T16:28:41+08:00</updated>
+  <updated>2012-07-12T22:26:10+08:00</updated>
   <id>http://inCage.github.com/</id>
   <author>
     <name><![CDATA[kanxue]]></name>
